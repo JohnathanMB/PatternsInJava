@@ -1,7 +1,7 @@
-package FactoryMethod.factory;
+package factory_method.factory;
 
-import FactoryMethod.buttons.Button;
-import FactoryMethod.buttons.HtmlButton;
+import factory_method.buttons.Button;
+import factory_method.buttons.HtmlButton;
 
 /*
  * Produce un dialog o ventana con botones HTML

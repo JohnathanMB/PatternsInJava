@@ -1,6 +1,6 @@
-import FactoryMethod.factory.Dialog;
-import FactoryMethod.factory.HtmlDialog;
-import FactoryMethod.factory.WindowsDialog;
+import factory_method.factory.Dialog;
+import factory_method.factory.HtmlDialog;
+import factory_method.factory.WindowsDialog;
 
 /*
  * Clase principal para probar el patrón

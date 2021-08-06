@@ -1,4 +1,4 @@
-package FactoryMethod.buttons;
+package factory_method.buttons;
 
 /*
  * Interface común para todos los botones

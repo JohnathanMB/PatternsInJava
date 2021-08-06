@@ -1,6 +1,6 @@
-package FactoryMethod.factory;
+package factory_method.factory;
 
-import FactoryMethod.buttons.Button;
+import factory_method.buttons.Button;
 
 /*
  * Clase Factory(fábrica) Base; Tener en cuenta que decir Factory es sólo un rol para la clase.
